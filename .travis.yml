@@ -16,5 +16,6 @@ jobs:
         provider: npm
         email: "arpitap@officebeacon.com"
         api_key: 
-        on: deploy-npm-release
+        on:
+          branch: master
 
