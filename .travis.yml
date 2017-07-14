@@ -14,5 +14,7 @@ jobs:
       script: echo "Deploying to npm .."
       deploy:
         provider: npm
+        email: "arpitap@officebeacon.com"
         api_key: 
         on: deploy-npm-release
+
