@@ -18,4 +18,5 @@ jobs:
         api_key: "17b3bdb4" 
         on: deploy-npm-release
             tags: true
+            branch: master
 
