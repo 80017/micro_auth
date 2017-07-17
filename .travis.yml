@@ -17,4 +17,5 @@ jobs:
         email: "arpitap@officebeacon.com"
         api_key: "17b3bdb4" 
         on: deploy-npm-release
+            tags: true
 
