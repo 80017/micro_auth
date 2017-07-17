@@ -15,7 +15,7 @@ jobs:
       deploy:
         provider: npm
         email: "arpitap@officebeacon.com"
-        api_key: 
+        api_key: "123" 
         on:
           branch: master
 
